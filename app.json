@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Text-Read-Test",
+    "slug": "Text-Read-Test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
